@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-void main() {
+void main7() {
 	int num1 = 0, num2 = 0, num3 = 0, num4 = 0;
-	char name[50];
+	char name[50];		
+	4
 	// 학습지 사칙연산
 	// 이름을 입력하세요 (출력)
 	// d
