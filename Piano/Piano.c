@@ -18,7 +18,7 @@ int main() {
 			case 'a':
 					Beep(µµ, 200);
 					printf("µµ");	
-					Sleep(90);			// 0.09√  ∏ÿ√„
+					Sleep(90);			// 0.09√  ∏ÿ√„ 
 					break;
 			case 's':
 				Beep(∑π, 200);
@@ -67,4 +67,5 @@ int main() {
 
 
 	return 0;
+
 }
